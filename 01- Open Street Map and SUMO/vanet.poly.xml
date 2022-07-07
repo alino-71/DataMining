@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 05/27/18 19:59:18 by SUMO polyconvert Version 0.32.0
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/polyconvertConfiguration.xsd">
+
+    <input>
+        <net-file value="vanet.net.xml"/>
+        <osm-files value="vanet.osm"/>
+        <type-file value="osmPolyconvert.typ.xml"/>
+    </input>
+
+    <output>
+        <output-file value="vanet.poly.xml"/>
+    </output>
+
+    <processing>
+        <poi-layer-offset value="5"/>
+    </processing>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <location netOffset="-531288.87,-3948198.56" convBoundary="-0.00,-1045.72,3241.65,2610.54" origBoundary="51.345820,35.667668,51.381550,35.700617" projParameter="+proj=utm +zone=39 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"/>
+
+    <poly id="197242722" type="tourism" color="207,245,201" fill="1" layer="-2.00" shape="2165.96,435.83 2437.24,462.20 2442.39,382.96 2171.55,369.19 2165.96,435.83"/>
+    <poly id="197243091" type="tourism" color="207,245,201" fill="1" layer="-2.00" shape="2164.75,434.55 2437.24,462.20 2442.39,382.96 2171.55,369.19 2164.75,434.55"/>
+    <poly id="319160625" type="tourism" color="207,245,201" fill="1" layer="-2.00" shape="2478.91,1860.69 2473.67,1908.54 2436.89,1904.56 2442.13,1856.71 2478.91,1860.69"/>
+    <poly id="368618917" type="building" color="255,230,230" fill="1" layer="-1.00" shape="2139.83,1420.84 2184.20,1420.18 2198.48,1418.30 2200.71,1389.93 2143.85,1385.86 2139.83,1420.84"/>
+    <poly id="484162913" type="leisure" color="207,245,201" fill="1" layer="-2.00" shape="2796.03,490.84 2798.11,452.19 2772.39,449.91 2774.03,402.81 2852.18,405.28 2846.74,495.14 2796.03,490.84"/>
+    <poly id="484490339" type="building" color="255,230,230" fill="1" layer="-1.00" shape="2724.42,1505.92 2721.30,1531.40 2734.75,1533.03 2737.87,1507.55 2724.42,1505.92"/>
+    <poly id="484990336" type="amenity" color="237,199,199" fill="1" layer="-1.00" shape="2199.98,1156.23 2217.78,1157.78 2219.01,1143.86 2201.21,1142.30 2199.98,1156.23"/>
+    <poly id="485358662" type="amenity" color="237,199,199" fill="1" layer="-1.00" shape="2457.49,1608.11 2478.61,1603.37 2482.64,1567.38 2462.74,1566.10 2457.49,1608.11"/>
+    <poly id="485358662#1" type="building" color="255,230,230" fill="1" layer="-1.00" shape="2457.49,1608.11 2478.61,1603.37 2482.64,1567.38 2462.74,1566.10 2457.49,1608.11"/>
+    <poly id="533948878" type="amenity" color="237,199,199" fill="1" layer="-1.00" shape="2659.29,1753.98 2712.18,1758.61 2713.82,1740.11 2660.92,1735.47 2659.29,1753.98"/>
+    <poly id="533948878#1" type="building" color="255,230,230" fill="1" layer="-1.00" shape="2659.29,1753.98 2712.18,1758.61 2713.82,1740.11 2660.92,1735.47 2659.29,1753.98"/>
+    <poly id="578307867" type="amenity" color="237,199,199" fill="1" layer="-1.00" shape="2936.69,402.06 2943.88,306.98 2856.03,300.38 2848.84,395.46 2936.69,402.06"/>
+    <poly id="578307867#1" type="building" color="255,230,230" fill="1" layer="-1.00" shape="2936.69,402.06 2943.88,306.98 2856.03,300.38 2848.84,395.46 2936.69,402.06"/>
+    <poi id="3385972011" type="amenity" color="237,199,199" layer="4.00" x="2233.46" y="1003.16"/>
+    <poi id="3724700488" type="amenity" color="237,199,199" layer="4.00" x="2186.74" y="1455.25"/>
+    <poi id="4108817593" type="shop" color="237,199,255" layer="4.00" x="2498.59" y="1059.09"/>
+    <poi id="4108837789" type="shop" color="237,199,255" layer="4.00" x="2802.43" y="811.15"/>
+    <poi id="4314158291" type="shop" color="237,199,255" layer="4.00" x="2515.06" y="1099.02"/>
+    <poi id="4411515334" type="amenity" color="237,199,199" layer="4.00" x="2855.84" y="544.66"/>
+    <poi id="4411519840" type="amenity" color="237,199,199" layer="4.00" x="2827.26" y="519.54"/>
+    <poi id="4411523829" type="amenity" color="237,199,199" layer="4.00" x="2814.01" y="684.77"/>
+    <poi id="4411532176" type="amenity" color="237,199,199" layer="4.00" x="2781.70" y="1030.91"/>
+    <poi id="4411536104" type="amenity" color="237,199,199" layer="4.00" x="2776.53" y="1301.27"/>
+    <poi id="4411536105" type="amenity" color="237,199,199" layer="4.00" x="2774.48" y="1333.15"/>
+    <poi id="4411540584" type="amenity" color="237,199,199" layer="4.00" x="2773.96" y="1339.92"/>
+    <poi id="4411546485" type="shop" color="237,199,255" layer="4.00" x="2737.34" y="1778.79"/>
+    <poi id="4423304426" type="amenity" color="237,199,199" layer="4.00" x="2516.29" y="1135.58"/>
+    <poi id="4423304427" type="amenity" color="237,199,199" layer="4.00" x="1916.76" y="1082.82"/>
+    <poi id="4423304481" type="amenity" color="237,199,199" layer="4.00" x="1953.29" y="1100.22"/>
+    <poi id="4423304483" type="amenity" color="237,199,199" layer="4.00" x="1993.99" y="1101.95"/>
+    <poi id="4427568918" type="amenity" color="237,199,199" layer="4.00" x="2724.06" y="1651.18"/>
+    <poi id="4427568919" type="amenity" color="237,199,199" layer="4.00" x="2745.69" y="1388.39"/>
+    <poi id="4427568921" type="amenity" color="237,199,199" layer="4.00" x="2737.89" y="1715.75"/>
+    <poi id="4427568922" type="amenity" color="237,199,199" layer="4.00" x="2752.71" y="1584.61"/>
+    <poi id="4427568923" type="amenity" color="237,199,199" layer="4.00" x="2746.32" y="1668.90"/>
+    <poi id="4427568929" type="amenity" color="237,199,199" layer="4.00" x="2822.16" y="1194.91"/>
+    <poi id="4427568930" type="amenity" color="237,199,199" layer="4.00" x="2748.73" y="1610.68"/>
+    <poi id="4427568932" type="amenity" color="237,199,199" layer="4.00" x="2808.27" y="1194.19"/>
+    <poi id="4427568933" type="amenity" color="237,199,199" layer="4.00" x="2770.57" y="1483.92"/>
+    <poi id="4427568934" type="amenity" color="237,199,199" layer="4.00" x="2707.25" y="1793.90"/>
+    <poi id="4427568935" type="amenity" color="237,199,199" layer="4.00" x="2776.22" y="1308.04"/>
+    <poi id="4437699500" type="amenity" color="237,199,199" layer="4.00" x="2184.20" y="1420.18"/>
+    <poi id="4456341389" type="shop" color="237,199,255" layer="4.00" x="2391.03" y="1446.86"/>
+    <poi id="4456341489" type="amenity" color="237,199,199" layer="4.00" x="2445.12" y="1626.59"/>
+    <poi id="4456349392" type="amenity" color="237,199,199" layer="4.00" x="1894.80" y="1412.86"/>
+    <poi id="4471697190" type="amenity" color="237,199,199" layer="4.00" x="2177.63" y="1806.83"/>
+    <poi id="4579465591" type="shop" color="237,199,255" layer="4.00" x="2730.76" y="1863.90"/>
+    <poi id="4580677091" type="shop" color="237,199,255" layer="4.00" x="1945.31" y="873.49"/>
+    <poi id="4615969990" type="shop" color="237,199,255" layer="4.00" x="1891.01" y="1612.09"/>
+    <poi id="4719197891" type="shop" color="237,199,255" layer="4.00" x="1898.66" y="1854.04"/>
+    <poi id="4726524992" type="amenity" color="237,199,199" layer="4.00" x="1898.11" y="1392.86"/>
+    <poi id="4735947595" type="amenity" color="237,199,199" layer="4.00" x="2824.94" y="531.96"/>
+    <poi id="4769134150" type="amenity" color="237,199,199" layer="4.00" x="2815.87" y="957.93"/>
+    <poi id="4770847426" type="amenity" color="237,199,199" layer="4.00" x="2113.26" y="1129.92"/>
+    <poi id="4770847427" type="amenity" color="237,199,199" layer="4.00" x="2147.45" y="1108.29"/>
+    <poi id="4770847428" type="shop" color="237,199,255" layer="4.00" x="2378.06" y="1127.65"/>
+    <poi id="4770847429" type="amenity" color="237,199,199" layer="4.00" x="2426.38" y="1153.69"/>
+    <poi id="4772240693" type="amenity" color="237,199,199" layer="4.00" x="2749.43" y="1603.55"/>
+    <poi id="4772961216" type="shop" color="237,199,255" layer="4.00" x="2723.15" y="1603.47"/>
+    <poi id="4777258625" type="amenity" color="237,199,199" layer="4.00" x="2193.65" y="1412.00"/>
+    <poi id="4777258628" type="amenity" color="237,199,199" layer="4.00" x="2225.52" y="1317.86"/>
+    <poi id="4777258629" type="shop" color="237,199,255" layer="4.00" x="2390.28" y="1130.02"/>
+    <poi id="4782415647" type="amenity" color="237,199,199" layer="4.00" x="2828.93" y="822.09"/>
+    <poi id="4782415648" type="amenity" color="237,199,199" layer="4.00" x="2797.12" y="511.23"/>
+    <poi id="4789805273" type="shop" color="237,199,255" layer="4.00" x="2706.55" y="1659.42"/>
+    <poi id="4791600133" type="amenity" color="237,199,199" layer="4.00" x="2808.67" y="513.01"/>
+    <poi id="4792191253" type="amenity" color="237,199,199" layer="4.00" x="2262.31" y="963.10"/>
+    <poi id="4814007090" type="amenity" color="237,199,199" layer="4.00" x="2497.74" y="1275.64"/>
+    <poi id="4814007091" type="shop" color="237,199,255" layer="4.00" x="2503.30" y="1221.68"/>
+    <poi id="4814007092" type="shop" color="237,199,255" layer="4.00" x="2499.61" y="1242.62"/>
+    <poi id="4814017068" type="amenity" color="237,199,199" layer="4.00" x="2212.46" y="1429.68"/>
+    <poi id="4818342164" type="amenity" color="237,199,199" layer="4.00" x="1880.08" y="1846.12"/>
+    <poi id="4818342165" type="amenity" color="237,199,199" layer="4.00" x="1882.48" y="1788.14"/>
+    <poi id="4818492256" type="shop" color="237,199,255" layer="4.00" x="2298.05" y="567.66"/>
+    <poi id="4818492259" type="shop" color="237,199,255" layer="4.00" x="2292.45" y="1041.36"/>
+    <poi id="4838750149" type="shop" color="237,199,255" layer="4.00" x="2624.98" y="1849.90"/>
+    <poi id="4838750151" type="shop" color="237,199,255" layer="4.00" x="2400.56" y="1829.61"/>
+    <poi id="4838750154" type="amenity" color="237,199,199" layer="4.00" x="2192.06" y="1636.94"/>
+    <poi id="4838750155" type="amenity" color="237,199,199" layer="4.00" x="2181.52" y="1560.01"/>
+    <poi id="4838750157" type="shop" color="237,199,255" layer="4.00" x="2198.72" y="1384.44"/>
+    <poi id="4838750158" type="shop" color="237,199,255" layer="4.00" x="2236.01" y="1218.21"/>
+    <poi id="4936586426" type="amenity" color="237,199,199" layer="4.00" x="2679.05" y="1308.47"/>
+    <poi id="5107253023" type="tourism" color="207,245,201" layer="3.00" x="2182.10" y="1115.38"/>
+    <poi id="5170255521" type="shop" color="237,199,255" layer="4.00" x="2235.57" y="1095.61"/>
+</additional>

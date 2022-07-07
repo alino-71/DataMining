@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2018-05-27 20:00:41.958000 by $Id$
+  options: -n vanet.net.xml -r vanet.rou.xml -e 54 -l
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="197682987#14" to="197682987#23"/>
+    <trip id="1" depart="1.00" from="197685529#15" to="197682986#19"/>
+    <trip id="2" depart="2.00" from="197682986#12" to="533948885#17"/>
+    <trip id="3" depart="3.00" from="4318909#2" to="533948885#5"/>
+    <trip id="4" depart="4.00" from="76840645#0" to="441723646#11"/>
+    <trip id="5" depart="5.00" from="4318908#19" to="gneE46"/>
+    <trip id="6" depart="6.00" from="197682986#22" to="198647277#26"/>
+    <trip id="7" depart="7.00" from="gneE47" to="36327225#6"/>
+    <trip id="8" depart="8.00" from="198647277#3" to="197682987#9"/>
+    <trip id="9" depart="9.00" from="197685531#4" to="484354222#16"/>
+    <trip id="10" depart="10.00" from="198647277#15" to="533948885#15"/>
+    <trip id="11" depart="11.00" from="533948885#27" to="197685529#8"/>
+    <trip id="12" depart="12.00" from="197685529#16" to="197682986#9"/>
+    <trip id="13" depart="13.00" from="4318908#10" to="197685530#0"/>
+    <trip id="14" depart="14.00" from="197685530#15" to="197685526#2"/>
+    <trip id="15" depart="15.00" from="197685529#8" to="533948885#6"/>
+    <trip id="16" depart="16.00" from="533948884#2" to="197685530#5"/>
+    <trip id="17" depart="17.00" from="197685242#6" to="197682987#13"/>
+    <trip id="18" depart="18.00" from="484907725#0" to="36327225#12"/>
+    <trip id="19" depart="19.00" from="gneE11" to="197685529#17"/>
+    <trip id="20" depart="20.00" from="197685530#6" to="197682986#12"/>
+    <trip id="21" depart="21.00" from="533948880#3" to="440868771#7"/>
+    <trip id="22" depart="22.00" from="197682986#12" to="533948884#3"/>
+    <trip id="23" depart="23.00" from="197682986#1" to="197682986#6"/>
+    <trip id="24" depart="24.00" from="435933413#4" to="533948885#15"/>
+    <trip id="25" depart="25.00" from="gneE47" to="197685530#1"/>
+    <trip id="26" depart="26.00" from="441723646#5" to="484354222#12"/>
+    <trip id="27" depart="27.00" from="441723646#13" to="4318908#7"/>
+    <trip id="28" depart="28.00" from="435933413#11" to="533948885#36"/>
+    <trip id="29" depart="29.00" from="4318909#3" to="435933413#8"/>
+    <trip id="30" depart="30.00" from="484354222#0" to="435933413#14"/>
+    <trip id="31" depart="31.00" from="533948885#12" to="197682987#12"/>
+    <trip id="32" depart="32.00" from="4318908#5" to="gneE12"/>
+    <trip id="33" depart="33.00" from="197685530#13" to="533948885#54"/>
+    <trip id="34" depart="34.00" from="4318908#19" to="440868771#12"/>
+    <trip id="35" depart="35.00" from="197685242#7" to="gneE12"/>
+    <trip id="36" depart="36.00" from="76840645#0" to="533948884#5"/>
+    <trip id="37" depart="37.00" from="198647277#23" to="484354222#21"/>
+    <trip id="38" depart="38.00" from="197682987#9" to="197682986#1"/>
+    <trip id="39" depart="39.00" from="533948886#0" to="484354222#6"/>
+    <trip id="40" depart="40.00" from="gneE47" to="197685531#7"/>
+    <trip id="41" depart="41.00" from="441723646#13" to="440868771#3"/>
+    <trip id="42" depart="42.00" from="440868771#13" to="484354222#8"/>
+    <trip id="43" depart="43.00" from="533948885#11" to="197682987#13"/>
+    <trip id="44" depart="44.00" from="197685530#6" to="gneE38"/>
+    <trip id="45" depart="45.00" from="533948885#20" to="441723646#10"/>
+    <trip id="46" depart="46.00" from="435933413#3" to="197685530#0"/>
+    <trip id="47" depart="47.00" from="484354222#5" to="gneE19"/>
+    <trip id="48" depart="48.00" from="197682986#0" to="4318908#10"/>
+    <trip id="49" depart="49.00" from="198647277#4" to="533948885#10"/>
+    <trip id="50" depart="50.00" from="533948885#53" to="gneE23"/>
+    <trip id="51" depart="51.00" from="198647277#3" to="533948885#14"/>
+    <trip id="52" depart="52.00" from="197682987#3" to="gneE42"/>
+    <trip id="53" depart="53.00" from="4318908#5" to="533948880#8"/>
+</routes>
